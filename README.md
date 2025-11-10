@@ -1,5 +1,9 @@
-Created by <h1>Kartheek Subham Saurav and Akash</h1>
+Created by <h1>Kartheek, Subham Saurav and Akash</h1>
+User Guide
 
+1. Download as Zip
+2. Extract Files
+3. Set path
 
 ## Run Locally
 
